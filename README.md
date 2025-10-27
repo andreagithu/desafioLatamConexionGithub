@@ -1,3 +1,6 @@
+=======
+# desafioLatamConexionGithub
+Conectando un proyecto en vscode con el repo de github.
 # GitHub for Visual Studio Code
 
 **Notice:** This extension is bundled with Visual Studio Code. It can be disabled but not uninstalled.
@@ -10,3 +13,4 @@ This extension provides the following GitHub-related features for VS Code:
 - `Clone from GitHub` participant to the `Git: Clone` command
 - GitHub authentication for built-in git commands, controlled via the `github.gitAuthentication` command
 - Automatic fork creation when attempting to push to a repository without permissions
+>>>>>>> e328c92 (Primer commit)
